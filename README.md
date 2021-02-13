@@ -4,11 +4,33 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkuk6467&count_bg=%2379C83D&title_bg=%23555555&icon=abbrobotstudio.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ```
 ## Profile
-> name : Sanghyeon Kim
-> sex : male
-> data of Birth : Feb 12,1993
-> blog : https://kimsanghyeon.tistory.com/
+- name : Sanghyeon Kim
+- sex : male
+- data of Birth : Feb 12,1993
+- blog : https://kimsanghyeon.tistory.com/
+
 ```
+### Hi there 👋, my name is Sanghyeon Kim
+#### I am front end developer
+![I am front end developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I will be a developer who continues to grow and develop.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning  C++, Python 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kuk6467)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sanghyun.kim.980/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/U2lGknDhikrgpgD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://kimsanghyeon.tistory.com/)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/kuk6467)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/kuk6467)  
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuk6467)](https://github.com/anuraghazra/github-readme-stats)
 
